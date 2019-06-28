@@ -1,6 +1,4 @@
 import re
-from collections import namedtuple
-
 import requests
 
 page_url = "http://www.pythonchallenge.com/pc/def/linkedlist.php"

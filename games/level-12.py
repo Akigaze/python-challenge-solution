@@ -1,7 +1,6 @@
-from PIL import Image, ImageEnhance
-
 LEVEL = 12
 page_url = "http://www.pythonchallenge.com/pc/return/evil.html"
+evil2_gfx_url = "http://www.pythonchallenge.com/pc/return/evil2.gfx"
 evil1_img_path = "..//files//12//evil1.jpg"
 evil2_img_path = "..//files//12//evil2.jpg"
 evil3_img_path = "..//files//12//evil3.jpg"

@@ -1,7 +1,3 @@
-import pickle
-import re
-import bz2
-
 from PIL import Image, ImageDraw
 
 LEVEL = 9

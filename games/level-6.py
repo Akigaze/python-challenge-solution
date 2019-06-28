@@ -1,10 +1,5 @@
-import os
-import pickle
 import re
-from os import path
 from zipfile import ZipFile
-
-import requests
 
 page_url = "http://www.pythonchallenge.com/pc/def/channel.html"
 
